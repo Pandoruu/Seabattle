@@ -1,4 +1,5 @@
 //import java.util.*;
+package Object;
 
 public class Board {
 

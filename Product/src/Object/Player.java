@@ -1,6 +1,10 @@
+package Object;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.*;
+import System.*;
+
 public class Player {
     private String name;
     private Board board;

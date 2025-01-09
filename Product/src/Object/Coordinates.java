@@ -1,3 +1,4 @@
+package Object;
 public class Coordinates {
     private int r,c;
     boolean used, hit;
